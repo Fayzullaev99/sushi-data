@@ -1,6 +1,5 @@
 {
-  "data": {
-    "product": [
+  "products": [
       {
         "id": 1,
         "category": "set",
@@ -2444,7 +2443,6 @@
         "price": 79
       }
     ]
-  }
 }
 
 
